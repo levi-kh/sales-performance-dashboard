@@ -1,0 +1,13 @@
+﻿customer_id,country,state,city,score,Clean Score,customer_name
+C001,United States,CA,San Francisco,20,20,Johnson Alex
+C002,United States,NY,New York,100,100,Garcia Maria
+C003,United States,TX,Dallas,0,0,Smith John
+C004,United States,WA,Seattle,30,30,Zhang Li
+C005,United States,FL,Miami,150,150,Kumar Aarav
+C006,United States,IL,Chicago,0,0,Lopez Sofia
+C007,United States,CA,Los Angeles,25,25,Miller Michael
+C008,United States,NJ,Newark,0,0,Wang Wei
+C009,Germany,Bavaria,Munich,50,50,Singh Priya
+C010,China,Guangdong,Shenzhen,350,350,Brown Emily
+C011,India,Karnataka,Bengaluru,0,0,Davis David
+C012,China,Shanghai,Shanghai,55,55,Li Chen
